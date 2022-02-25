@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://github.com/stevebauman/location/actions">
+
+<a href="https://packagist.org/packages/ma/auth-otp-api">
+<img src="https://img.shields.io/github/issues/MOHAMMED-ABD-RAZAQ/auth-otp-api">
+</a>
+<a href="https://packagist.org/packages/ma/auth-otp-api">
+<img src="https://img.shields.io/packagist/l/stevebauman/location.svg?style=flat-square">
+</a>
+
 # Auth Otp Api
 
 #### Package to build auth based api with otp verfication
