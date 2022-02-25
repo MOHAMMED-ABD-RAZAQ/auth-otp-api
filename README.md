@@ -1,4 +1,5 @@
-<p align="center">
+# Auth Otp Api
+<p align="left">
 <a href="https://github.com/stevebauman/location/actions">
 
 <a href="https://packagist.org/packages/ma/auth-otp-api">
@@ -7,8 +8,8 @@
 <a href="https://packagist.org/packages/ma/auth-otp-api">
 <img src="https://img.shields.io/packagist/l/stevebauman/location.svg?style=flat-square">
 </a>
+</p>
 
-# Auth Otp Api
 
 #### Package to build auth based api with otp verfication
 
